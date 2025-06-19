@@ -28,11 +28,27 @@ Here are some ideas to get you started:
  full web development lifecycle, from requirement analysis to production support. I thrive
  in both team settings and independently tackle complex challenges. I am dedicated to
  continuously learning and integrating new technologies to enhance user experiences.
-</p>
+</p>p
 
 - 💬 Ask me about **JavaScript, Node.js, React, Vue...or anything [here](https://github.com/vbharambe96/vbharambe96/issues)**
 - 👯 I’m looking to collaborate on **Frontend Dvelopement, React.Js, Vue.Js projects**
 
+<div align="center">
+  <a href="vbharambe62@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/vbharambe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+<!--   <a href="https://medium.com/@chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://codepen.io/chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
+  </a> -->
+</div>
+
+<hr>
 
 
 

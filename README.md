@@ -30,7 +30,8 @@ Here are some ideas to get you started:
  continuously learning and integrating new technologies to enhance user experiences.
 </p>
 
-
+- 💬 Ask me about **JavaScript, Node.js, React, Vue...or anything [here](https://github.com/vbharambe96/vbharambe96/issues)**
+- 👯 I’m looking to collaborate on **Frontend Dvelopement, React.Js, Vue.Js projects**
 
 
 

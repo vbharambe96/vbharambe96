@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  full web development lifecycle, from requirement analysis to production support. I thrive
  in both team settings and independently tackle complex challenges. I am dedicated to
  continuously learning and integrating new technologies to enhance user experiences.
-</p>p
+</p>
 
 - 💬 Ask me about **JavaScript, Node.js, React, Vue...or anything [here](https://github.com/vbharambe96/vbharambe96/issues)**
 - 👯 I’m looking to collaborate on **Frontend Dvelopement, React.Js, Vue.Js projects**
@@ -50,5 +50,20 @@ Here are some ideas to get you started:
 
 <hr>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,ts,nodejs,react,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,vue,redux,chart.js,git,postman,figma" />
+</p>
+
+<hr>
+
+<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbharambe96&show_icons=true&locale=en&layout=compact" alt="vbharambe96" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vbharambe96&show_icons=true&locale=en" alt="vbharambe96" /></p>
 
 

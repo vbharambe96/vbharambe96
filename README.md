@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Vaibhav+Bharambe!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=550&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Vaibhav+Bharambe!;" />
 </h1>
 
 <p>I am a passionate Frontend Developer with 1 year and 8 months of experience focusing

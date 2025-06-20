@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <hr>
 <h3> 💻👨 Experience: </h3>
-<div align="center>
+<div align="center">
   <h3 align="left">CN Techies</h3>
   <h3 align="left">Frontend Developer</h3>
   <p align= "right"> Vshi, Navi Mumbai</p>

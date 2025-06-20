@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Frontend Dvelopement, React.Js, Vue.Js projects**
 
 <div align="center">
-  <a email="vbharambe62@gmail.com">
+  <a href="mailto:vbharambe62@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/vbharambe" target="_blank">

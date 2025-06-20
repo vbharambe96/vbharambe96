@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 <hr>
 ## 💻👨 Experience: 
 <div align="center>
-  <h3 align=left>CN Techies</h3>
+  <h3 align="left">CN Techies</h3>
   <h3 align="left">Frontend Developer</h3>
   <p align= "right"> Vshi, Navi Mumbai</p>
-  <div align="center">
+  <div>
      - Crafted responsive web applications that captivated users through intuitive designs
        and seamless functionality using React.js and Vue Js.
      - Integrated REST APIs for seamless data flow and improved application efficiency.

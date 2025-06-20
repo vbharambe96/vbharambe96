@@ -45,12 +45,12 @@ Here are some ideas to get you started:
   <p align= "right"> Vshi, Navi Mumbai</p>
   <div>
      - Crafted responsive web applications that captivated users through intuitive designs
-       and seamless functionality using React.js and Vue Js.
-     - Integrated REST APIs for seamless data flow and improved application efficiency.
-     - Built reusable mono repo user controls for modular development in React.js.
-     - Conducted unit testing using Jest and React Testing Library for reliability.
-     - Optimized performance and fixed bugs, enhancing user experience.
-     - Worked in Agile teams following Scrum methodology.
+       and seamless functionality using React.js and Vue Js.**
+     - Integrated REST APIs for seamless data flow and improved application efficiency.**
+     - Built reusable mono repo user controls for modular development in React.js.**
+     - Conducted unit testing using Jest and React Testing Library for reliability.**
+     - Optimized performance and fixed bugs, enhancing user experience.**
+     - Worked in Agile teams following Scrum methodology.**
   </div>
   <div></div>
 </div>

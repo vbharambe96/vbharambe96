@@ -1,5 +1,5 @@
 <div align='center'>
-  <h2></h2>Frontend Developer | React.Js | Vue.Js </h2>
+  <h2>Frontend Developer | React.Js | Vue.Js </h2>
 </div>
 <br>
 <hr>

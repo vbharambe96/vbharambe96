@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Frontend Dvelopement, React.Js, Vue.Js projects**
 
 <hr>
-## 💻👨 Experience: 
+<h3> 💻👨 Experience: </h3>
 <div align="center>
   <h3 align="left">CN Techies</h3>
   <h3 align="left">Frontend Developer</h3>

@@ -1,4 +1,6 @@
 <div align='center'>Frontend Developer | React.Js | Vue.Js </div>
+<br>
+<hr>
 
 <!--
 **vbharambe96/vbharambe96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

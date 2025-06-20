@@ -43,15 +43,15 @@ Here are some ideas to get you started:
   <h3 align="left">CN Techies</h3>
   <h3 align="left">Frontend Developer</h3>
   <p align= "right"> Vshi, Navi Mumbai</p>
-  <div>
+  <ul>
      - Crafted responsive web applications that captivated users through intuitive designs
-       and seamless functionality using React.js and Vue Js.**
-     - Integrated REST APIs for seamless data flow and improved application efficiency.**
-     - Built reusable mono repo user controls for modular development in React.js.**
-     - Conducted unit testing using Jest and React Testing Library for reliability.**
-     - Optimized performance and fixed bugs, enhancing user experience.**
-     - Worked in Agile teams following Scrum methodology.**
-  </div>
+       and seamless functionality using React.js and Vue Js.
+     - Integrated REST APIs for seamless data flow and improved application efficiency.
+     - Built reusable mono repo user controls for modular development in React.js.
+     - Conducted unit testing using Jest and React Testing Library for reliability.
+     - Optimized performance and fixed bugs, enhancing user experience.
+     - Worked in Agile teams following Scrum methodology.
+  </ul>
   <div></div>
 </div>
 

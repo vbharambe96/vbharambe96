@@ -37,6 +37,24 @@ Here are some ideas to get you started:
 - 💬 Ask me about **JavaScript, Node.js, React, Vue...or anything [here](https://github.com/vbharambe96/vbharambe96/issues)**
 - 👯 I’m looking to collaborate on **Frontend Dvelopement, React.Js, Vue.Js projects**
 
+<hr>
+## 💻👨 Experience: 
+<div align="center>
+  <h3 align=left>CN Techies</h3>
+  <h3 align="left">Frontend Developer</h3>
+  <p align= "right"> Vshi, Navi Mumbai</p>
+  <div align="center">
+     - Crafted responsive web applications that captivated users through intuitive designs
+       and seamless functionality using React.js and Vue Js.
+     - Integrated REST APIs for seamless data flow and improved application efficiency.
+     - Built reusable mono repo user controls for modular development in React.js.
+     - Conducted unit testing using Jest and React Testing Library for reliability.
+     - Optimized performance and fixed bugs, enhancing user experience.
+     - Worked in Agile teams following Scrum methodology.
+  </div>
+  <div></div>
+</div>
+
 <div align="center">
   <a href="mailto:vbharambe62@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />

@@ -1,4 +1,4 @@
-## Hi there 👋
+<div align='center'>Frontend Developer | React.Js | Vue.Js </div>
 
 <!--
 **vbharambe96/vbharambe96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,11 +59,10 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,vue,redux,chart.js,git,postman,figma" />
 </p>
 
-<hr>
 
-<hr>
+<!-- <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbharambe96&show_icons=true&locale=en&layout=compact" alt="vbharambe96" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vbharambe96&show_icons=true&locale=en" alt="vbharambe96" /></p>
-
+ --!>
 

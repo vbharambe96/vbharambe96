@@ -82,10 +82,11 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-
+<!--
 <div align="center">
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=vbharambe96&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Vaibhav's Most Used Languages" />
 </div>
+--!>
 
 <!-- <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbharambe96&show_icons=true&locale=en&layout=compact" alt="vbharambe96" /></p>
